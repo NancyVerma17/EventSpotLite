@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Music Concert",
+      "date": "2024-10-28",
+      "location": "Central Park",
+      "description": "Join us for a night of great music in the park.",
+      "image": "/images/music_concert.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Food Festival",
+      "date": "2024-11-15",
+      "location": "City Square",
+      "description": "Enjoy delicious food from around the world!",
+      "image": "/images/food_festival.jpg"
+    }
+  ]
+  
